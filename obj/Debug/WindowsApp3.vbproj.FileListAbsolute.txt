@@ -1,0 +1,16 @@
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.manifest
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.application
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe.manifest
+C:\Users\mflum\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.application
